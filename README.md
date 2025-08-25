@@ -4,8 +4,10 @@ Este projeto foi desenvolvido com o objetivo de **ensinar os fundamentos de HTML
 
 ### Em sala
 Para baixar o zip com as imagens utilizadas no projeto acesse o link abaixo
-[Baixar ZIP da pasta de images e pdf explicativo](https://github.com/RayssaGM21/download_images_bootcamp_2025/archive/refs/heads/main.zip)
-[Ver ficha com explicações e conceitos fundamentais de HTML, CSS e JS](https://github.com/RayssaGM21/download_images_bootcamp_2025/blob/main/Conceitos%20Fundamentais%20html_css_js.pdf)
+
+- [Baixar ZIP da pasta de images e pdf explicativo](https://github.com/RayssaGM21/download_images_bootcamp_2025/archive/refs/heads/main.zip)
+
+- [Ver ficha com explicações e conceitos fundamentais de HTML, CSS e JS](https://github.com/RayssaGM21/download_images_bootcamp_2025/blob/main/Conceitos%20Fundamentais%20html_css_js.pdf)
 
 ## Visão Geral
 
