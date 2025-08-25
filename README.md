@@ -6,6 +6,11 @@ Este projeto foi desenvolvido com o objetivo de **ensinar os fundamentos de HTML
 
 Através deste projeto, os alunos do Bootcamp têm a oportunidade de aprender na prática como construir um site. As seções principais incluem informações sobre os cursos, notícias e um formulário de contato.
 
+### Versão Online
+
+Você pode visualizar o site diretamente no GitHub Pages através do seguinte link:  
+[Visite o site do projeto no GitHub Pages](https://rayssagm21.github.io/Bootcamp_UNIMAR_2025/)
+
 ## Tecnologias Utilizadas
 
 - **HTML5**: Estrutura básica da página, com foco na semântica e acessibilidade.
@@ -34,9 +39,3 @@ Este site foi criado como uma **atividade prática** para ensinar aos alunos os 
 2. Abra o arquivo `index.html` em seu navegador para visualizar o site.
 
 3. Para personalizar ou adicionar novos cursos/notícias, edite os arquivos HTML, CSS e JS conforme necessário.
-
-### Versão Online
-
-Você pode visualizar o site diretamente no GitHub Pages através do seguinte link:  
-[Visite o site do projeto no GitHub Pages](https://rayssagm21.github.io/Bootcamp_UNIMAR_2025/)
-
