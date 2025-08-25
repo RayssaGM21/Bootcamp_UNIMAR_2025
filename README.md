@@ -2,7 +2,7 @@
 
 Este projeto foi desenvolvido com o objetivo de **ensinar os fundamentos de HTML, CSS e JavaScript** para alunos do ensino médio, como parte da iniciativa do **Bootcamp Jovem Programador UNIMAR 2025**. O site é uma plataforma simples, projetada para promover os cursos oferecidos pela universidade, bem como informações relevantes sobre o vestibular de 2026.
 
-## Em sala
+### Em sala
 Para baixar o zip com as imagens utilizadas no projeto acesse o link abaixo
 [Baixar ZIP da pasta de images](https://github.com/RayssaGM21/download_images_bootcamp_2025/archive/refs/heads/main.zip)
 
